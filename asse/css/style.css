@@ -1,0 +1,104 @@
+#airpods-pro img{
+    content: "";
+    image: "asse/imagem/069b73a19be8237bf27d6204fdd98bf6.png";
+    top: 190px;
+    height: 301px;
+    width: 356px;
+    left: 628px;
+   
+}
+
+
+h1{
+    color: #161C2D;
+    font-family: "Gilroy";
+    font-size: 60px;
+    font-weight:700 ;
+    align-items: center;
+    
+}
+
+h2{
+    color: #161C2D;
+    font-family: "Rubik";
+    font-size: 24px;
+    font-weight:700 ;
+    line-height: 28.44px;
+    letter-spacing: -0.13px;
+    align-self: left;
+    
+}
+
+.titulo{
+    color: #F64B4B;
+    font-family: "Gilroy";
+    font-size: 13px;
+    font-weight:700 ;
+    align-items: center;
+    
+}
+
+.sub_titulo{
+    color: #555657;
+    font-family: "Gilroy";
+    font-size: 19px;
+    font-weight:700 ;
+    line-height: 32px;
+    align-items: center;
+    
+}
+
+.sub2{
+    color: #161C2D;
+    font-family: "Gilroy";
+    font-size: 13px;
+    font-weight:700 ;
+    line-height: 15.72px;
+    align-items: center;
+}
+
+#airpods-pro{
+    align-items: center;
+    display: flex;
+    flex-direction:column;
+}
+
+.botao{
+    background-color: #473BF0;
+    border: 0;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+    
+}
+
+nav {
+    background-color: #fff;
+    color: #fff;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    display: block;
+    padding: 10px 20px;
+    color: #161C2D;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: #fff;
+}
